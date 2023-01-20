@@ -12,6 +12,7 @@ class App extends Component {
         <Logo />
         {/* <ImageLinkForm />
         <FaceRecognition /> */}
+        {/* <a target="_blank" href="https://icons8.com/icon/4cCEGzNi6Zt0/hub">Hub</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> */}
       </div>
     );
   }
